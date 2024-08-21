@@ -2,7 +2,7 @@
 # Translex: Multi-Language Translator
 
 ## Project Overview
-**LexoShift** is a multi-language translator built using the Hugging Face Transformers library and Streamlit. This application allows users to translate text from English into multiple languages, including French, Spanish, German, Urdu, and Sindhi. The project leverages pre-trained translation models available on Hugging Face and provides a simple, interactive UI for translation.
+**Translex:** is a multi-language translator built using the Hugging Face Transformers library and Streamlit. This application allows users to translate text from English into multiple languages, including French, Spanish, German, Urdu, and Sindhi. The project leverages pre-trained translation models available on Hugging Face and provides a simple, interactive UI for translation.
 
 ## Features
 - **Multi-Language Support**: 
@@ -23,10 +23,7 @@
   - `streamlit`: For creating the web-based user interface.
   - `sentencepiece`: Required for tokenization in certain models.
 
-## Installation and Setup
-To set up and run the project locally, follow these steps:
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-username/lexoshift.git
-   cd lexoshift
+## Project Structure
+- app.py: The main application file containing the Streamlit app code.
+- requirements.txt: Lists the Python packages required to run the project.
+- .gitignore: Specifies files and directories to be ignored by Git.
