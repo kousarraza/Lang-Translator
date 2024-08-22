@@ -2,11 +2,11 @@
 # Translex: Multi-Language Translator
 
 ## Project Overview
-**Translex:** is a multi-language translator built using the Hugging Face Transformers library and Streamlit. This application allows users to translate text from English into multiple languages, including French, Spanish, German, Urdu, and Sindhi. The project leverages pre-trained translation models available on Hugging Face and provides a simple, interactive UI for translation.
+**Translex:** is a multi-language translator built using the Hugging Face Transformers library and Streamlit. This application allows users to translate text from English into multiple languages, including French, Spanish, German and Urdu. The project leverages pre-trained translation models available on Hugging Face and provides a simple, interactive UI for translation.
 
 ## Features
 - **Multi-Language Support**: 
-  - Translate English text into French, Spanish, German, Urdu, and Sindhi.
+  - Translate English text into French, Spanish, German and Urdu.
   - Easily extendable to other languages supported by Hugging Face models.
 - **User-Friendly Interface**: 
   - Developed using Streamlit, offering an intuitive and interactive user interface.
