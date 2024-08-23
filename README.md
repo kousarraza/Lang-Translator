@@ -1,4 +1,4 @@
-
+ 
 # Translex: Multi-Language Translator
 
 ## Project Overview
